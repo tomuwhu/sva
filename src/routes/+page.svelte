@@ -5,7 +5,8 @@
 <h1>Ságváris oktatás</h1>
 
 <br /><br />
-<a href="{base}/hatv">Hatványozás</a>
+<a class="x" href="{base}/hatv">Hatványozás</a>
+<a class="x" href="https://tomuwhu.github.io/sv03/2sets">2sets</a>
 <br />
 <br />
 <br /><br />
@@ -18,5 +19,23 @@
 		width: 60px;
 		box-shadow: 1px 1px 4px black;
 		border-radius: 30px;
+	}
+	a.x {
+		all: unset;
+		color: rgb(30, 65, 76);
+		border: solid 1px rgb(136, 59, 59);
+		padding: 6px;
+		border-radius: 6px;
+		background-color: rgb(153, 222, 199);
+		box-shadow: 1px 1px 3px black;
+		cursor: pointer;
+	}
+	a.x:hover {
+		box-shadow: 1px 1px 1px black;
+		background-color: rgb(143, 244, 210);
+	}
+	a.x:active {
+		box-shadow: 1px 1px 3px inset black;
+		background-color: rgb(64, 140, 115);
 	}
 </style>
