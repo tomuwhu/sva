@@ -6,7 +6,8 @@
 
 <br /><br />
 <a class="x" href="{base}/hatv">Hatványozás</a>
-<a class="x" href="https://tomuwhu.github.io/sv03/2sets">2sets</a>
+<a class="x" href="https://tomuwhu.github.io/sv03/2sets">2sets Megoldás magyarázat</a>
+<a class="x" href="https://gyakg.es6.eu/cses/08_2sets.js">2sets CSES Megoldás</a>
 <br />
 <br />
 <br /><br />
