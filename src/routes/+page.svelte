@@ -32,6 +32,8 @@
 		background-color: rgb(153, 222, 199);
 		box-shadow: 1px 1px 3px black;
 		cursor: pointer;
+		white-space: nowrap;
+		line-height: 40px;
 	}
 	a.x:hover {
 		box-shadow: 1px 1px 1px black;
